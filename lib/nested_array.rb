@@ -36,6 +36,8 @@ def matrix_lookup(matrix, row, column)
   # Return the matrix's content at that row and and column
   assembled_matrix
   assembled_matrix[1][1] 
+  sorted_matrix
+  sorted_matrix[1][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
